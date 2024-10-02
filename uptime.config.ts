@@ -3,8 +3,8 @@ const pageConfig = {
   title: "Status Page",
   // Links shown at the header of your status page, could set `highlight` to `true`
   links: [
-    { link: 'https://www.chuhaix.com/', label: 'Chuhaix' },
-    { link: 'https:/www.chgjx.com/', label: 'Chgjx' },
+    { link: 'https://www.chuhaix.com/', label: '出海掘金' },
+    { link: 'https://www.chgjx.com/', label: '出海工具箱' },
     { link: 'mailto:wzjs@outlook.com', label: 'Email Me', highlight: true },
   ],
 }
