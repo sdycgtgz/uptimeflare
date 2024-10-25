@@ -27,7 +27,7 @@ const workerConfig = {
       // `target` is a valid URL
       target: 'https://www.chuhaix.com',
       // [OPTIONAL] `tooltip` is ONLY used at status page to show a tooltip
-      tooltip: 'This is a tooltip for this monitor',
+      tooltip: 'chuhaix',
       // [OPTIONAL] `statusPageLink` is ONLY used for clickable link at status page
       statusPageLink: 'https://www.chuhaix.com',
       // [OPTIONAL] `expectedCodes` is an array of acceptable HTTP response codes, if not specified, default to 2xx
@@ -40,13 +40,13 @@ const workerConfig = {
       // `id` should be unique, history will be kept if the `id` remains constant
       id: 'chgjx',
       // `name` is used at status page and callback message
-      name: 'Chuhaix',
+      name: 'Chgjx',
       // `method` should be a valid HTTP Method
       method: 'GET',
       // `target` is a valid URL
       target: 'https://www.chgjx.com',
       // [OPTIONAL] `tooltip` is ONLY used at status page to show a tooltip
-      tooltip: 'This is a tooltip for this monitor',
+      tooltip: 'chgjx',
       // [OPTIONAL] `statusPageLink` is ONLY used for clickable link at status page
       statusPageLink: 'https://www.chgjx.com',
       // [OPTIONAL] `expectedCodes` is an array of acceptable HTTP response codes, if not specified, default to 2xx
@@ -61,7 +61,7 @@ const workerConfig = {
     appriseApiServer: "https://apprise.example.com/notify",
     // [Optional] recipient URL for apprise, refer to https://github.com/caronc/apprise
     // if not specified, no notification will be sent
-    recipientUrl: "tgram://bottoken/ChatID",
+    recipientUrl: "tgram://7093235394:AAG_JGS0HgdyaTPYZqGWSFh1OxwYdvfIWkg/tinymsgrcvbot",
     // [Optional] timezone used in notification messages, default to "Etc/GMT"
     timeZone: "Asia/Shanghai",
     // [Optional] grace period in minutes before sending a notification
