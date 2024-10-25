@@ -61,7 +61,7 @@ const workerConfig = {
     appriseApiServer: "https://apprise.example.com/notify",
     // [Optional] recipient URL for apprise, refer to https://github.com/caronc/apprise
     // if not specified, no notification will be sent
-    recipientUrl: "tgram://7093235394:AAG_JGS0HgdyaTPYZqGWSFh1OxwYdvfIWkg/tinymsgrcvbot",
+    recipientUrl: "",
     // [Optional] timezone used in notification messages, default to "Etc/GMT"
     timeZone: "Asia/Shanghai",
     // [Optional] grace period in minutes before sending a notification
